@@ -1,2 +1,5 @@
+
 # madeyouwonder
-things to make you wonder
+
+code for producing information displays to make you wonder
+
